@@ -1,8 +1,8 @@
-# Hi, I'm j_a_g_e_n_t_i_c 👋
+# Hi, I'm JAGENTIC 👋
 
-**AI Layer-Slayer
+**AI Layer-Slayer | Solo Developer | Sales Engineering**
 
-I'm transitioning into AI/ML sales/solutions/engineering with a focus on building intelligent automation, content platforms, and privacy-conscious developer tools. I leverage AI augmentation in my workflow and build production-ready applications across web, mobile, and data pipelines.
+Building AI-powered applications and learning in public. Focused on intelligent automation, content platforms, and privacy-first tools. Open to solo development projects, team collaboration, and sales/solutions engineering roles.
 
 ## 🎯 Current Focus
 
@@ -11,14 +11,12 @@ I'm transitioning into AI/ML sales/solutions/engineering with a focus on buildin
 - **iOS Development**: SwiftUI apps with AI integration and real-time audio/video features
 - **Data Pipelines**: Python-based automation for content ingestion, transformation, and delivery
 
-## 🛠️ Tech Stack
+## 🛠️ Building With
 
-**Languages:** Python, TypeScript, Swift, JavaScript
-**Frontend:** React 18, Vite, Tailwind CSS v4, SwiftUI
-**Backend/Data:** Node.js, SQLite, IndexedDB (Dexie.js)
-**AI/ML:** OpenAI API (GPT-4o), prompt engineering, agent orchestration
-**DevOps:** GitHub Actions, fastlane, Xcode Cloud
-**Tools:** VS Code, Xcode, Claude Code, git
+**Learning:** React, TypeScript, Swift, Python
+**AI Tools:** OpenAI API, Claude Code, prompt engineering
+**Focus Areas:** iOS apps, web applications, automation pipelines
+**Approach:** AI-augmented development, privacy-first architecture
 
 ## 🚀 Featured Project
 
@@ -35,8 +33,8 @@ Interactive millionaire-style quiz platform with AI-curated questions and real-t
 
 - **Post-Grad Certificate**: AI/ML (UT Austin / Great Learning)
 - **Harvard CS50P**: Python Programming
-- **Professional Transition**: Moving from prior career into software engineering with AI specialization
-- **Development Style**: AI-augmented workflows, reproducible pipelines, security-first architecture
+- **Career Transition**: Building software with AI tools while developing technical skills
+- **Positioning**: Solo developer, team collaboration, or sales/solutions engineering
 
 ## 🔗 Connect
 
@@ -52,5 +50,5 @@ I believe friction points are feature requests in disguise. My approach combines
 
 ---
 
-🔨 Currently building in public and documenting my transition into AI/ML engineering.
-💬 Open to collaboration on privacy-first tools, iOS development, and AI agent systems.
+🔨 Building in public and learning through real projects.
+💬 Open to: Solo dev contracts, team collaboration, sales/solutions engineering roles.
