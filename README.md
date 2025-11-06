@@ -1,8 +1,8 @@
-# Hi, I'm Jedediah (JAGENTIC) 👋
+# Hi, I'm j_a_g_e_n_t_i_c 👋
 
-**AI/ML Engineer | Full-Stack Developer | Building Privacy-First Tools**
+**AI Layer-Slayer
 
-I'm transitioning into AI/ML engineering with a focus on building intelligent automation, content platforms, and privacy-conscious developer tools. I leverage AI augmentation in my workflow and build production-ready applications across web, mobile, and data pipelines.
+I'm transitioning into AI/ML sales/solutions/engineering with a focus on building intelligent automation, content platforms, and privacy-conscious developer tools. I leverage AI augmentation in my workflow and build production-ready applications across web, mobile, and data pipelines.
 
 ## 🎯 Current Focus
 
